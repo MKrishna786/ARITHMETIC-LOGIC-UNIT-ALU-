@@ -15,3 +15,4 @@ output
 A = 8'b00001100 (decimal 12)
 
 B = 8'b00000101 (decimal 5)
+https://github.com/MKrishna786/ARITHMETIC-LOGIC-UNIT-ALU-/issues/3#issue-3171327527
